@@ -1,0 +1,14 @@
+{
+  "name": "discord-rp-faction-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord para facções no RP",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "fs": "0.0.1-security"
+  }
+}
